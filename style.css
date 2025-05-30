@@ -64,6 +64,7 @@ ship animation {
     width: 150px;
     height: 150px;
     animation: ship 30s infinite;
+    overflow: hidden;
 }
 
 @keyframes ship {
